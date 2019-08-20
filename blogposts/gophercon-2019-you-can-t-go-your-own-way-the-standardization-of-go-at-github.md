@@ -17,7 +17,7 @@ Liveblogger: [Amber Byers](https://www.linkedin.com/in/amberbyers)
 
 ## Overview
 
-Ever feel like moving code bases, even in the same language, can feel like working at an entirely new company? Over the past year, GitHub has been working on standardizing its' usage of Go to mitigate issues like this. This talk will cover challenges faced and lessons learned throughout this process.
+Ever feel like moving code bases, even in the same language, can feel like working at an entirely new company? Over the past year, GitHub has been working on standardizing its usage of Go to mitigate issues like this. This talk will cover challenges faced and lessons learned throughout this process.
 
 ---
 
@@ -42,7 +42,7 @@ At this point, Jessica had detected a pattern, so she talked to several teams th
 Frustrated by the issues she encountered in this seemingly simple project, Jessica gathered some developers from a few teams at GitHub to brainstorm and discuss some possible solutions.  They all quickly centered on language standardization as their solution.
 
 ## What is Language Standardization?
-Language standardization has three main tenants:
+Language standardization has three main tenets:
 1. Libraries and Packages
 2. Project Structure
 3. Development Lifecycle
